@@ -1,0 +1,2 @@
+The module contains basic functionality for an integration between [Intelisis ERP](https://www.intelisis.com) and [julio.com](https://julio.com) (Magento 2).  
+The module should not be installed directly: it is used the [`julio.com/order`](https://github.com/julio-com/order) and [`julio-com/stock`](https://github.com/julio-com/stock) modules.
